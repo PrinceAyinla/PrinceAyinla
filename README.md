@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrinceAyinla
 - 👀 I’m interested in Learning
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning Full StacK
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me linkedin 
 
