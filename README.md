@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrinceAyinla
-- 👀 I’m interested in ML
+- 👀 I’m interested in Learning
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me linkedin 
